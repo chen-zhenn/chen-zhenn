@@ -9,4 +9,4 @@ chen-zhenn/chen-zhenn is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/chen-zhenn/chen-zhenn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/chen-zhenn/chen-zhenn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
