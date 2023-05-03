@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Garcia,and I have an extensive background in  Web development
+- 👋 Hi, I’m Carlos Garcia, and I have an extensive background in  Web development
 - 👀 I'm currently interested in Design Patterns, Clean Architecture, Node.js and Python
 - 🌱 I’m currently learning Python
 <!-- - 💞️ I’m looking to collaborate on ...-->
